@@ -17,7 +17,7 @@ This repository documents my 15-day Python Micro Course journey. I am learning P
 |---|---|---|
 | Day 1 | Comments and Variables | Completed |
 | Day 2 | Python Data Types | Completed |
-| Day 3 | Python Operatore | Completed |
+| Day 3 | Python Operators | Completed |
 | Day 4 | Input and typecasting | Completed |
 | Day 5 | String index and Slicing | Completed |
 | Day 6 | String Method | Completed |
